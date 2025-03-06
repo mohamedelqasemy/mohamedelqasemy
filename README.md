@@ -10,7 +10,7 @@
 - 🖥 **Software Development & Architecture**  
 - 🤖 **Artificial Intelligence & Machine Learning**  
 - 🌐 **Web & Mobile &Desktop App Development**  
-- ☁ **IoT & Cloud & DevOps**  
+- ☁ **IoT & Cloud**  
 
 ## 📫 Let's connect!  
 Feel free to reach out for collaboration or discussions on exciting tech projects! 😊  
@@ -54,7 +54,6 @@ Feel free to reach out for collaboration or discussions on exciting tech project
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![H2 Database](https://img.shields.io/badge/H2%20Database-003545?style=for-the-badge&logo=h2&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Design and Modeling Tools:
 ![UML](https://img.shields.io/badge/UML-00599C?style=for-the-badge&logo=uml&logoColor=white)
@@ -63,7 +62,6 @@ Feel free to reach out for collaboration or discussions on exciting tech project
 ### Operating Systems:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Machine Learning:
