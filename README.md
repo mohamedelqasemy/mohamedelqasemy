@@ -1,15 +1,15 @@
 <div align="center">
   <h1> Hi there! 👋  I’m EL-QASEMY Mohamed </h1>
-  <h2>
+  <h4>
     A Software Engineering and AI student with a passion for technology, problem-solving, and innovation.
     I enjoy building scalable applications, exploring new technologies, and continuously learning.
-  </h2>
+  </h4>
 </div>
 
 ## 🚀 Interests  
+- 🌐 **Web & Mobile &Desktop App Development**  
 - 🖥 **Software Development & Architecture**  
 - 🤖 **Artificial Intelligence & Machine Learning**  
-- 🌐 **Web & Mobile &Desktop App Development**  
 - ☁ **IoT & Cloud**  
 
 ## 📫 Let's connect!  
